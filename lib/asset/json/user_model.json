@@ -1,0 +1,28 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "gender": "male",
+        "dateofbirth": "1990-01-01",
+        "email": "johndoe@example.com",
+        "age": 30
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "gender": "female",
+        "dateofbirth": "1980-01-01",
+        "email": "janesmith@example.com",
+        "age": 25
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "gender": "other",
+        "dateofbirth": "1970-01-01",
+        "email": "bobjohnson@example.com",
+        "age": 35
+      }
+    ]
+  }
